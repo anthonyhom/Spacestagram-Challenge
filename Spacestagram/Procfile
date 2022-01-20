@@ -1,1 +1,1 @@
-web: gunicorn Spacestagram.wsgi
+web:gunicorn Spacestagram.wsgi
