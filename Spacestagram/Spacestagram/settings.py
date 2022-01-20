@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-eci!q1_a7tprs6tpfmjw3g_zvt4_r%__t#fes0yrl9vq-$et)*'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['anthony-spacestagram-challenge.herokuapp.com','127.0.0.1']
 
